@@ -1,3 +1,0 @@
-[submodule "simclr"]
-	path = simclr
-	url = https://github.com/google-research/simclr.git
