@@ -13,3 +13,6 @@ This technique can be used as a pre-training step to exploit large amounts of un
 ### References 
 - [A Survey on Contrastive Self-Supervised Learning](https://www.mdpi.com/2227-7080/9/1/2)
 - [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
+
+### Kaggle
+ - [Contrastive Learning with 3D Shapes](https://www.kaggle.com/code/andreabernini/contrastive-learning)
